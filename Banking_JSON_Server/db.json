@@ -1,0 +1,29 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "name": "Murti Devi",
+      "account": "12345678931",
+      "mobile": "8059979276",
+      "address": "Nehru Colony, Rohtak",
+      "email": "sahilkadian4@gmail.com",
+      "password": "489852"
+    },
+    {
+      "name": "Sahil Kadian",
+      "account": "1268741269",
+      "contact": "8708875261",
+      "email": "sahilkadian4@gmail.com",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "banker": [
+    {
+      "id": 1,
+      "name": "Ranbir",
+      "mobile": "8059979276",
+      "email": "RK@gmail.com"
+    }
+  ]
+}
